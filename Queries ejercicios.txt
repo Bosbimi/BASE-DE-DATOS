@@ -6,11 +6,11 @@
 
 4)   http://sqlfiddle.com/#!9/3357a7/44048/0
 
-5)   http://sqlfiddle.com/#!9/3357a7/8204/0
+5)   http://sqlfiddle.com/#!9/3357a7/8204/0  o tambien  http://sqlfiddle.com/#!9/3357a7/44060/0
 
 6)   http://sqlfiddle.com/#!9/3357a7/4986/0
 
-7)   http://sqlfiddle.com/#!9/3357a7/2288/0
+7)   http://sqlfiddle.com/#!9/3357a7/2288/0  o tambien  http://sqlfiddle.com/#!9/3357a7/44061/0
 
 8)   http://sqlfiddle.com/#!9/3357a7/6994/0
 
@@ -18,21 +18,21 @@
 
 10)  http://sqlfiddle.com/#!9/3357a7/25038/0
 
-11)  http://sqlfiddle.com/#!9/3357a7/25038/0
+11)  http://sqlfiddle.com/#!9/3357a7/44066/0
 
 12)  http://sqlfiddle.com/#!9/3357a7/2291/0
 
-13)  http://sqlfiddle.com/#!9/3357a7/44049/0
+13)  http://sqlfiddle.com/#!9/3357a7/44049/0  o tambien http://sqlfiddle.com/#!9/3357a7/44068/0 
 
 14)  http://sqlfiddle.com/#!9/3357a7/25050/0
 
-15)  http://sqlfiddle.com/#!9/3357a7/20681/0
+15)  http://sqlfiddle.com/#!9/3357a7/20681/0  o tambien http://sqlfiddle.com/#!9/3357a7/44070/0
 
 16)  http://sqlfiddle.com/#!9/3357a7/2298/0
 
-17)  http://sqlfiddle.com/#!9/3357a7/35399/0
+17)  http://sqlfiddle.com/#!9/3357a7/35399/0  o tambien http://sqlfiddle.com/#!9/3357a7/44073/0 
 
-18)  http://sqlfiddle.com/#!9/3357a7/12485/0
+18)  http://sqlfiddle.com/#!9/3357a7/12485/0  o tambien http://sqlfiddle.com/#!9/3357a7/44074/0
 
 19)  http://sqlfiddle.com/#!9/3357a7/19657/0
 
